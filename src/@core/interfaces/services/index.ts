@@ -20,9 +20,13 @@ export interface IService {
   id: number;
   title: string;
   content: string;
-  image: string;
+  image?: string;
   iframe?: string; // optional, bəzi xidmətlərdə olmaya bilər
   cards?: ICard[]; // optional
   data_list?: IDataList; // optional
-  parent_id?: number | null; // nullable, bəzi xidmətlərdə `parent_id` olmayacaq
+  parent_id: number | null; // nullable, bəzi xidmətlərdə `parent_id` olmayacaq
+}
+
+export interface TreeNode extends IService {
+  children: TreeNode[];
 }

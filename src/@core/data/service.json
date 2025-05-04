@@ -1,0 +1,210 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Proqram Təminatı",
+      "content": "BIRainy şirkətlərin istəklərinə uyğun olaraq proqram təminatı hazırlayır. Proqramın son trendlərə və interfeysinin rahat istifadəyə uyğun olması əsas üstünlüyümüzdür.\nMüxtəlif sistemlər və mobil tətbiqlər, OCR əsaslı Sürətli Axtarış Sistemi, Telegram Bot-lar sayəsində şirkətlər müştəri əlaqələrinin gücləndirilməsinə, şirkət daxilindəki əməkdaşlar arasındakı işlərin idarə edilməsinə, prosesin sürətləndirilə və manuallığın azalıb avtomatlaşdırılmış formada həyata keçirilməsinə nail olurlar.",
+      "image": "/assets/images/software_image.webp",
+      "parent_id": null
+    },
+    {
+      "id": 2,
+      "title": "Sürətli Axtarış Sistemi",
+      "content": "Şirkətdaxili və xarici proseslərin həyata keçirilməsi, həmçinin əməkdaşların şirkət daxilindəki sənədləri avtomatlaşdırılmış şəkildə axtarış edib, rahatlıqla yerləşdirib, toplaya və göndərə bildikləri OCR alqoritmi ilə hazırlanmış Sürətli Axtarış Sistemi.",
+      "iframe": "https://www.youtube.com/embed/YRTe_sJd_2A?si=ly8K6zJvUi2GZrV8",
+      "parent_id": 1
+    },
+    {
+      "id": 3,
+      "title": "CRM və ERP",
+      "content": "<div><p>CRM sistemi ilə şirkətlərin qazandığı üstünlüklər:</p><ul><li>Rutin tapşırıqların avtomatlaşdırılması;</li><li>Müştərilərin davranışı haqqında anlayışlar;</li><li>Müştəriləri ilə güclü, davamlı əlaqələr qurmaq üçün qarşılıqlı əlaqələr.</li></ul></div><div><p>ERP sistemi şirkətlər üçün təmin edir:</p><ul><li>Əsas biznes proseslərini mərkəzləşdirilmiş şəkildə idarə olunmasını;</li><li>Dəqiq və real vaxt rejimində məlumatı;</li><li>Məhsuldarlığın və səmərəliliyin yüksəldilməsini;</li><li>Əməliyyat xərclərinin azaldılmasını.</li></ul></div>",
+      "iframe": "https://www.youtube.com/embed/YRTe_sJd_2A?si=ly8K6zJvUi2GZrV8",
+      "parent_id": 1
+    },
+    {
+      "id": 4,
+      "title": "Mobil tətbiqlər",
+      "content": "Müştərilərin tələblərinə uyğun olaraq son trendlərə əsaslanaraq mobil tətbiq UX/UI dizaynerlər tərəfindən istifadəçi üçün rahat və gözoxşayan şəkildə dizayn edilir. Dizayna əsasən də müxtəlif proqramlaşdırma dilləri və kitabxanası ilə ən yeni texnologiyalardan istifadə edərək kodlaşdırılır. Yazdığımız mobil tətbiqlər həm IoS, həm də Android əməliyyat sistemində dəstəklənə bilir.",
+      "image": "/assets/images/software_image.webp",
+      "parent_id": 1
+    },
+    {
+      "id": 5,
+      "title": "Saytların yaradılması",
+      "content": "Şirkətlərin vizyonuna uyğun olaraq sayt hazırlayırıq. Sayt trendə uyğun olaraq dizaynerlərimiz tərəfindən dizayn edilir. HTML5, CSS, JS (react js., vue js., angular js.) kimi proqramlaşdırma dilləri ilə son texnologiyalardan istifadə edərək piksel dəqiqliyində kodlaşdırılıb müxtəlif ölçülü mobil və digər cihazlara uyğunlaşdırılır. Sonda qurulmuş sayt üçün sistem arxitekturası yaradılır və maksimum sürətli işləməsi təmin edilir.",
+      "cards": [
+        {
+          "id": 1,
+          "title": "UI/UX dizayn",
+          "content": "Şirkətin vizyonuna uyğun son trendlərə əsaslanan istifadəçi interfeysinin dizayn edilməsi.",
+          "image": "/assets/images/software_image.webp"
+        },
+        {
+          "id": 2,
+          "title": "Mobil Optimizasiya",
+          "content": "Vebsaytın müxtəlif ölçülü mobil cihazlara uyğunlaşdırılması.",
+          "image": "/assets/images/software_image.webp"
+        },
+        {
+          "id": 3,
+          "title": "Front-end",
+          "content": "Dizaynların HTML, CSS, JS kimi müxtəlif proqramlaşdırma dilləri ilə piksel dəqiqliyində kodlaşdırılması.",
+          "image": "/assets/images/software_image.webp"
+        },
+        {
+          "id": 4,
+          "title": "Back-end",
+          "content": "Sistem arxitekturasının yaradılması və maksimum sürətli işləməsinin təmin edilməsi",
+          "image": "/assets/images/software_image.webp"
+        }
+      ],
+      "parent_id": null
+    },
+    {
+      "id": 6,
+      "title": "Oyun Təminatı",
+      "content": "Şirkətin fəaliyyət göstərdiyi istiqamətə, istehsal etdiyi məhsullara uyğun olaraq oyun ssenarisi hazırlanır, son trendlərə əsaslanaraq dizayn olunur və oyun developerləri tərəfindən 2D və 3D formatında oyunlar yazılır. Oyunun növünə uyğun assetlərdən istifadə edilir.",
+      "image": "/assets/images/software_image.webp",
+      "parent_id": null
+    },
+    {
+      "id": 7,
+      "title": "Stend və VR oyunları",
+      "content": "BIRainy şirkəti şirkətlərin istəyinə və istifadə edəcəkləri istiqamətə uyğun olaraq özlərinə məxsus elementlərin, logonun da yer aldığı və müştərilərinin endirimlər qazanaraq əylənə bilmələri üçün stend və VR oyunlar yazır.\n<div><p>Stend və VR oyunları event, forumlar, tədbirlər, açılışlarda şirkətə qazandırır:</p><ul><li>Müştərilərin diqqətini 1-ə 5 artırmaq;</li><li>Müştərilərin hansısa konkret məhsula (məhsullara) daha çox diqqət və maraq göstərməsini təmin etmək;</li><li>Tədbirlərin əyləncə hissəsini daha maraqlı və aktiv hala gətirmək;</li><li>Orqanik reklam yaratmaq.</li></ul></div>",
+      "iframe": "https://www.youtube.com/embed/YRTe_sJd_2A?si=ly8K6zJvUi2GZrV8",
+      "parent_id": 6
+    },
+    {
+      "id": 8,
+      "title": "Veb oyunlar",
+      "content": "İstifadəçinin uzun müddət veb-saytda qalması və axtarış sistemində biznes veb-saytlarının təbii yollarla artımını təmin etmək üçün veb oyunların yazılması\n<div><ul><li>Axtarış sistemində biznes veb-saytlarının təbii yollarla artımını təmin edir;</li><li>Sayta daxil olan şəxslərin saytda daha çox vaxt keçirməsini təmin edir;</li><li>Saytın aktivliyini artırır və trafik axınını təmin edir;</li><li>Axtarış motorlarında saytın ön sıralarda görünməsini təmin edir.</li></ul></div>",
+      "image": "/assets/images/software_image.webp",
+      "parent_id": 6
+    },
+    {
+      "id": 9,
+      "title": "VR simulyatorlar",
+      "content": "BIRainy tərəfindən şirkətlərin istəklərinə uyğun olaraq VR simulyatorlar yazılır və hololens, ocolus kimi VR eynəklərlə təmin edilir.",
+      "iframe": "https://www.youtube.com/embed/YRTe_sJd_2A?si=ly8K6zJvUi2GZrV8",
+      "data_list": {
+        "accordion": true,
+        "content": [
+          {
+            "id": 1,
+            "title": "Satış",
+            "content": "Texnologiya sektoru, məişət avadanlıqları mağazalarında müştərilərin virtual olaraq məhsulu sınaqdan keçirməsi"
+          },
+          {
+            "id": 2,
+            "title": "Satış",
+            "content": "Texnologiya sektoru, məişət avadanlıqları mağazalarında müştərilərin virtual olaraq məhsulu sınaqdan keçirməsi"
+          }
+        ]
+      },
+      "parent_id": 6
+    },
+    {
+      "id": 10,
+      "title": "Oyun monitoru kirayəsi",
+      "content": "Təqdim etdiyimiz stend oyunlarla birgə monitorları da kirayələmək mümkündür.",
+      "iframe": "https://www.youtube.com/embed/YRTe_sJd_2A?si=ly8K6zJvUi2GZrV8",
+      "data_list": {
+        "accordion": false,
+        "content": [
+          {
+            "id": 23,
+            "title": "Ekran dioqanalı",
+            "content": "139sm (55”)"
+          },
+          {
+            "id": 24,
+            "title": "Gövdəsi",
+            "content": "Dəmir karkas"
+          },
+          {
+            "id": 25,
+            "title": "Monitor",
+            "content": "Anti-vandal şüşə, qoruyucu ekran və touch sensor panel"
+          }
+        ]
+      },
+      "parent_id": 6
+    },
+    {
+      "id": 11,
+      "title": "Data analitikası",
+      "content": "BIRainy MMC tərəfindən şirkətin dataları bütün mənbələrdən müxtəlif formatlarda toplandıqdan sonra təmizlənir. Təmizlənmiş datalar qrafiklərlə vizuallaşdırılır və analiz olunduqdan sonra biznes yönümlü analitik həllər şirkətə təklif edilir. Son mərhələdə hazırlanmış dashboard-larda şirkət real vaxt rejimində yeni datalara əsasən məlumatları da görə bilir.",
+      "image": "/assets/images/software_image.webp",
+      "parent_id": null
+    },
+    {
+      "id": 12,
+      "title": "Maliyyə təhlili",
+      "content": "<div><p>Maliyyə təhlili şirkətin və ya təşkilatın maliyyə vəziyyətini qiymətləndirmək üçün:</p><ul><li>Onun maliyyə hesabatlarını</li><li>Mənfəət və zərər hesabatlarını</li><li>Pulun dövriyyəsi haqqında hesabatları yoxlamağı əhatə edir.&nbsp;</li></ul></div>\n Bu təhlilin məqsədi şirkətin gəlirliliyini, likvidliyini və ödəmə qabiliyyətini qiymətləndirmək, əsaslandırılmış investisiya və ya kredit qərarları qəbul etməkdir.",
+      "iframe": "https://app.powerbi.com/view?r=eyJrIjoiNmM4MjUyZDAtYzljNi00YzA1LWFiYzUtNjVkZTFiZDg4ZTJjIiwidCI6IjU0MzgxNDhjLWIxYTUtNDEzMS1iZjAwLTUwZDRjNGMyMTg5ZiJ9",
+      "parent_id": 11
+    },
+    {
+      "id": 13,
+      "title": "İnsan Resurslarının təhlili",
+      "content": "<div><p>İnsan resurslarının təhlili şirkətin işçilərinə aid məlumatların toplanması və təhlilini əhatə edir. Bu cür təhlil həm kəmiyyət, həm də keyfiyyət metodlarından istifadə etməklə həyata keçirilir, bura daxildir:</p><ul><li>Kadr dəyişikliyi dərəcələri</li><li>İşə qəbul xərcləri</li><li>İşçilərin məşğulluq səviyyəsi</li><li>Təlimin effektivliyi kimi göstəricilərin qiymətləndirilməsi.</li></ul></div>\n HR təhlilinin son məqsədi işçi qüvvəsinin planlaşdırılması üçün nümunələri, təkmilləşdirilməli sahələri və strateji imkanları müəyyən etməkdir.",
+      "iframe": "https://app.powerbi.com/view?r=eyJrIjoiNmM4MjUyZDAtYzljNi00YzA1LWFiYzUtNjVkZTFiZDg4ZTJjIiwidCI6IjU0MzgxNDhjLWIxYTUtNDEzMS1iZjAwLTUwZDRjNGMyMTg5ZiJ9",
+      "parent_id": 11
+    },
+    {
+      "id": 14,
+      "title": "Optimizasiya təhlili",
+      "content": "Optimallaşdırma təhlili resursların bölüşdürülməsi və ya seçim edilməsini nəzərdə tutan problemin optimal həllini müəyyən etmək üçün riyazi model və metodlardan istifadə prosesinə aiddir. Optimallaşdırma təhlili maliyyə, mühəndislik, logistika və əməliyyatların idarə edilməsi kimi sahələrdə geniş tətbiq sahəsinə malikdir və səmərəliliyin artırılmasına, xərclərin azaldılmasına, təkmilləşdirilmiş performansa kömək edir.",
+      "iframe": "https://app.powerbi.com/view?r=eyJrIjoiNmM4MjUyZDAtYzljNi00YzA1LWFiYzUtNjVkZTFiZDg4ZTJjIiwidCI6IjU0MzgxNDhjLWIxYTUtNDEzMS1iZjAwLTUwZDRjNGMyMTg5ZiJ9",
+      "parent_id": 11
+    },
+    {
+      "id": 15,
+      "title": "Satınalma təhlili",
+      "content": "<div><p>Satınalma təhlili şirkətin satınalma fəaliyyəti haqqında məlumat əldə etmək və xərclərə qənaət, prosesi təkmilləşdirmək imkanlarını aşkar etmək üçün onun satınalma fəaliyyətini nəzərdən keçirməkdir. Bunun üçün tendensiyaları, potensial riskləri və təkmilləşdirmə tələb edən sahələri müəyyən edilib satınalma sifarişləri, təchizatçı performansı və inventar səviyyələri kimi müxtəlif məlumatlar təhlil edilir. Satınalma təhlili şirkətlərə aşağıdakı mövzularda əsaslandırılmış qərarlar qəbul etməkdə kömək edir, bu da daha yüksək səmərəliliyə və gəlirliliyə gətirib çıxarır:</p><ul><li>Tədarükçü seçimi</li><li>Müqavilə danışıqları</li><li>İnventarın idarə edilməsi</li></ul></div>",
+      "iframe": "https://app.powerbi.com/view?r=eyJrIjoiNmM4MjUyZDAtYzljNi00YzA1LWFiYzUtNjVkZTFiZDg4ZTJjIiwidCI6IjU0MzgxNDhjLWIxYTUtNDEzMS1iZjAwLTUwZDRjNGMyMTg5ZiJ9",
+      "parent_id": 11
+    },
+    {
+      "id": 16,
+      "title": "Əsas Performans Göstəriciləri (KPI) təhlili",
+      "content": "KPI təhlili şirkətin fəaliyyətinin onun strateji məqsəd və vəzifələrinə uyğun qiymətləndirilməsini əhatə edir. Bu proses, müştəri saxlamaq dərəcəsi, satış artımı və ya işçilərin məhsuldarlığı kimi şirkətin uğuru üçün vacib olan KPI-lərin seçilməsini və izlənilməsini nəzərdə tutur. Əsas Performans Göstəriciləri təhlili şirkətin fəaliyyətinə dair fikirlər təqdim edən dəyərli vasitədir və biznes nəticələrini yaxşılaşdırmaq üçün məlumatlara uyğun əsaslandırılmış qərarlar qəbul etməyə imkan verir.",
+      "iframe": "https://app.powerbi.com/view?r=eyJrIjoiNmM4MjUyZDAtYzljNi00YzA1LWFiYzUtNjVkZTFiZDg4ZTJjIiwidCI6IjU0MzgxNDhjLWIxYTUtNDEzMS1iZjAwLTUwZDRjNGMyMTg5ZiJ9",
+      "parent_id": 11
+    },
+    {
+      "id": 17,
+      "title": "1C proqramı ilə inteqrasiya",
+      "content": "1C proqramından verilənlərin Microsoft Power BI-a qoşulması biznes məlumatlarının təhlili və vizuallaşdırılması üçündür. Bu inteqrasiya şirkətlərə real vaxt rejimində məlumat təhlilindən istifadə etməklə yaxşı əsaslandırılmış qərarlar qəbul etmək imkanı verir.",
+      "parent_id": 11
+    },
+    {
+      "id": 18,
+      "title": "SƏTƏM təhlili",
+      "content": "Sağlamlıq, Əməyin Təhlükəsizliyi və Ətraf Mühit (SƏTƏM) risklərinin təhlili layihə və ya əməliyyatla bağlı potensial təhlükələrin qiymətləndirilməsini əhatə edir. Məqsədi bu risklərin ehtimalını və nəticələrini müəyyən etmək, təşkilatlara effektiv risklərin idarə edilməsi yanaşmalarını həyata keçirməyə imkan yaratmaqdır. SƏTƏM təhlili iş yerinin təhlükəsizliyinin və tənzimləmə qaydalarına uyğunluğun, xüsusən də, tikinti, istehsal və enerji kimi sənayelərin qorunmasında vacibdir.",
+      "iframe": "https://app.powerbi.com/view?r=eyJrIjoiNmM4MjUyZDAtYzljNi00YzA1LWFiYzUtNjVkZTFiZDg4ZTJjIiwidCI6IjU0MzgxNDhjLWIxYTUtNDEzMS1iZjAwLTUwZDRjNGMyMTg5ZiJ9",
+      "parent_id": 11
+    },
+    {
+      "id": 19,
+      "title": "Satış/KPI",
+      "content": "BIRainy tərəfindən təqdim olunan Satış və KPI analizi hesabatı, satış prosesinin müxtəlif fazalarını izləməyə imkan verir. Bu hesabat vasitəsilə sahibkarlar, anbarların vəziyyəti, müştəri qruplarının seçimləri, satışlar və əldə edilmiş gəlirlər haqqında detallı məlumatla təchiz olunurlar.\n <div><p>Hesabat bu metrikləri ehtiva edir:</p><ul><li>Qoyulmuş hədəflərə nə qədər nail olunduğu, hansı ərazilərdə daha yaxşı və ya pis nəticə əldə edildiyi</li><li>Lokal ərazilərdə üstünlük verilən məhsullar və markalar</li><li>Müxtəlif dövrlər ərzində həyata keçən satışların analizi, ən gəlirli günlərin təhlili</li><li>Müştərilərin demoqrafik göstəricilər üzrə almağa daha meyilli olduğu məhsul və markalar</li><li>Müştərilərin üstünlük verdiyi ödəniş üsulları və valyuta</li><li>Anbarlara daxil olan və oradan mağazalara daşınan məhsullar haqqında statistikalar</li></ul></div>",
+      "iframe": "https://app.powerbi.com/view?r=eyJrIjoiNmM4MjUyZDAtYzljNi00YzA1LWFiYzUtNjVkZTFiZDg4ZTJjIiwidCI6IjU0MzgxNDhjLWIxYTUtNDEzMS1iZjAwLTUwZDRjNGMyMTg5ZiJ9",
+      "parent_id": 11
+    },
+    {
+      "id": 20,
+      "title": "Sosial Media",
+      "content": "BIRainy tərəfindən Sosial Media üzrə vizuallaşdırılmış dashboard idarə olunan platformalarda performans göstəricilərinin hərtərəfli təhlilini təqdim edir. Təhlildə diqqət real vaxt çərçivəsində auditoriya ilə qarşılıqlı əlaqə, məzmunun effektivliyi və platformanın ümumi inkişafı ilə bağlı fikirləri təqdim edən əsas göstəricilərə yönəlib.\n <div><p>Təhlilin komponetləri bunlardır:</p><ul><li>Ümumi like/comment/follower/post/impressions/reached</li><li>Klik və yeni izləyicilərin sayı</li><li>Şərh və bəyənmələrin tarix üzrə analizi</li><li>Fəaliyyətlərin faiz bölgüsü və s.</li></ul></div>",
+      "iframe": "https://app.powerbi.com/view?r=eyJrIjoiNmM4MjUyZDAtYzljNi00YzA1LWFiYzUtNjVkZTFiZDg4ZTJjIiwidCI6IjU0MzgxNDhjLWIxYTUtNDEzMS1iZjAwLTUwZDRjNGMyMTg5ZiJ9",
+      "parent_id": 11
+    },
+    {
+      "id": 21,
+      "title": "Restoranlar",
+      "content": "Restoranlar üzrə təhlil restoranın fəaliyyətinin müxtəlif aspektləri haqqında məlumat verən mühüm vasitədir. O, maliyyə sağlamlığını qiymətləndirməyə, qərar qəbul etməyə, inventarları idarə etməyə, müştərilərin seçimlərini başa düşməyə, işçilərin fəaliyyətini qiymətləndirməyə və qaydalara uyğunluğu təmin etməyə kömək edir.\n <div><p>BIRainy komandası tərəfindən hazırlanmış dashboardu əhatə edir:</p><ul><li>Restoran barədə ümumi informasiya(menyu,kateqoriya və filial sayı)</li><li>Servis/Qida reytinqi</li><li>Ortalama xidmət zamanı</li><li>Kateqoriyalar/Restoranlar/Ödəmə tipi/Müştəri tipi/Sifarişin növü/Menyular üzrə ödəniş</li><li>Məhsullar üzrə porsiya sayı</li><li>Ümumi ödəniş</li><li>Ödənişlərin keçən ayla faiz fərqi</li><li>Müştəri sayı</li><li>Müştəri sayının keçən ayla faiz fərqi</li><li>Tarix üzrə ödənişlər və müştəri sayının dinamikası</li><li>Rüblər üzrə müştəri sayının faizlə bölgüsü</li><li>Tarix üzrə məhsul və xidmət reytinqinin dinamikası</li><li>Məhsulların təsviri</li></ul></div>",
+      "iframe": "https://app.powerbi.com/view?r=eyJrIjoiNmM4MjUyZDAtYzljNi00YzA1LWFiYzUtNjVkZTFiZDg4ZTJjIiwidCI6IjU0MzgxNDhjLWIxYTUtNDEzMS1iZjAwLTUwZDRjNGMyMTg5ZiJ9",
+      "parent_id": 11
+    }
+  ]
+}
